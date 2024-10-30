@@ -44,6 +44,9 @@ nohup uvicorn main:app --host=0.0.0.0 --port=8000 &
 
 기존 AI-Hub 음식 양 추정 데이터는 식판에서 사용하기 어렵다고 판단되었습니다. 따라서 직접 식판 위에 음식을 올려 무게를 측정하면서 직접 촬영하여 데이터를 수집하였습니다. 밥류의 음식들은 50g씩 무게를 측정하여 촬영하였고 반찬류는 25g씩 무게를 맞추어 촬영하였습니다.
 
+| 이미지 | <img src="https://github.com/user-attachments/assets/5afd694b-ed37-4f20-ad78-4763dc564663" width="200"/> | <img src="https://github.com/user-attachments/assets/6e02a7b2-d2fe-4128-94ce-02e247bee255" width="200"/> | <img src="https://github.com/user-attachments/assets/6e7f87a5-3d32-40d1-ac79-6b92e5a53fb1" width="200"/> | <img src="https://github.com/user-attachments/assets/5fff5b69-4577-4385-80a8-72a83b7efccf" width="200"/> |
+|---|----------------------------------------------|----------------------------------------------|----------------------------------------------|-----------------------------------------------|
+| 무게 | 100g                                         | 150g                                         | 200g                                         | 250g                                          |
 ### 7. 디렉토리 구조
 **Food-Ai-Server**
 ```
