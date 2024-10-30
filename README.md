@@ -29,6 +29,7 @@
 cd ./src/web_server
 ./gradlew build clean
 cd /build/libs
+cp ../../FoodNutrient.csv .
 java -jar SmartPlate-0.0.1-SNAPSHOT.jar
 ```
 **인공지능 서버 빌드 및 실행**
