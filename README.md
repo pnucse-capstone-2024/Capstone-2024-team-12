@@ -68,6 +68,13 @@ ai_server
 ├─ ai_server.zip
 ├─ amount_model
 │  └─ rice_model.pkl
+│  └─ 계란말이.pkl
+│  └─ 김치볶음밥.pkl
+│  └─ 어묵볶음.pkl
+│  └─ 오징어볶음.pkl
+│  └─ 총각김치.pkl
+│  └─ 카레라이스.pkl
+│  └─ 훈제오리.pkl
 ├─ food-detection.pt
 ├─ main.py
 ├─ requirements.txt
